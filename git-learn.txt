@@ -1,5 +1,6 @@
 learning git
-hello world good world pull now
+hello world good world pull now make change
 i am feeling good today
 should it merger?
 use pull option now
+change it me
