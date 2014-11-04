@@ -1,5 +1,1 @@
 sun
-Change C
-Change D
-Change X
-Change Y
